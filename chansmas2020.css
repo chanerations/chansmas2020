@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url("./00xmas2020-background.png"); */
+    background-image: url("./00xmas2020-background.png");
     background-color: #1a0000;
     background-repeat: no-repeat;
     background-size: cover;
@@ -158,11 +158,6 @@ body {
     animation-name: fade-stay;
     animation-delay: 105s;
 }
-/* #card img:nth-child(27) {
-    animation-name: fade-stay;
-    animation-delay: 110s;
-}
-*/
 /* calculations:
 animation-duration=(fade-in+visible) x images
 animation-delay=(fade-in+visible) x (ordinal position-1)
