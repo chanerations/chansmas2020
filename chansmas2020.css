@@ -47,7 +47,7 @@ body {
 #card img {
     opacity: 0;
     position: absolute;
-    box-shadow: 1px 1px 1px #1b1b1b;
+    box-shadow: 1px 1px 5px #1b1b1b;
     backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
 /*    animation-name: fade; */
